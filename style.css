@@ -1,0 +1,35 @@
+.myFont2{
+    color: green;
+}
+
+.myborder{
+    border: solid 5px blue;
+}
+
+.myMargin{
+    margin: 2px;
+}
+
+div#first{
+    box-shadow:black 0 0 10px;
+    text-align: center;
+    border-radius: 50px;
+    background-color: cyan;
+    
+
+}
+input#input1{
+    box-shadow:green 0 0 10px;
+    text-align: center;
+}
+
+
+div#external{
+    box-shadow: indigo 0 0 10px;
+}
+
+
+div.col-sm-2{
+    border-radius: 50px;
+    
+}
